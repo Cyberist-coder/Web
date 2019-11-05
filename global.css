@@ -1,0 +1,39 @@
+#container {
+    width:200px;
+    height:200px;
+    /* background: green; */
+    position: relative;
+    background-color:blanchedalmond;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: auto;
+    margin-top: 200px ;
+    border-radius: 20px;
+}
+
+#box{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    position: absolute;
+    rotate:100;
+    border-radius: 10px;
+
+}
+
+#time{
+    background-color: #333;
+    color: #bbb;
+    width: 220px;
+    line-height: 30px;
+    height: 30px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 30px;
+    margin: auto;
+}
+
+
+html{
+    background: darkgrey;
+}
